@@ -6,6 +6,8 @@ spring:
     date-format: yyyy-MM-dd HH:mm:ss
   datasource:
     url: jdbc:mysql://paascloud-db-mysql:3307/paascloud_uac?characterEncoding=utf8&useSSL=false
+    username: root
+    password: root
 
 mybatis:
   type-aliases-package: com.paascloud.provider.model.domain
