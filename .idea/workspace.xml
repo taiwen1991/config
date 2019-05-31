@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69008998-ab51-4fae-ad02-2786a0735166" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/paascloud-provider-mdc-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/paascloud-provider-mdc-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paascloud-provider-omc-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/paascloud-provider-omc-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paascloud-provider-opc-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/paascloud-provider-opc-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paascloud-provider-tpc-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/paascloud-provider-tpc-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paascloud-zipkin-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/paascloud-zipkin-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="69008998-ab51-4fae-ad02-2786a0735166" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/paascloud-provider-omc-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
@@ -117,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paascloud-zipkin-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="362">
@@ -247,16 +241,15 @@
       <updated>1559012657544</updated>
       <workItem from="1559012662739" duration="1672000" />
       <workItem from="1559176002141" duration="2678000" />
-      <workItem from="1559263022454" duration="1558000" />
+      <workItem from="1559263022454" duration="2615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5908000" />
+    <option name="totallyTimeSpent" value="6965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,13 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paascloud-provider-omc-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/paascloud-provider-opc-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -351,6 +337,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paascloud-provider-omc-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
