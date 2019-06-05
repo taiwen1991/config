@@ -8,8 +8,8 @@ spring:
     cache-names: mdc-cache
   datasource:
     url: jdbc:mysql://paascloud-db-mysql:3306/paascloud_mdc?characterEncoding=utf8&useSSL=false
-    username: root
-    password: WuZhivip@!6%
+    username: guoshuai
+    password: GuoShuai0925!
 
 liquibase:
   change-log: classpath:liquibase/index.xml
